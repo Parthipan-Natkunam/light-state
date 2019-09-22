@@ -1,0 +1,43 @@
+{
+  "name": "light-state",
+  "version": "1.0.0",
+  "description": "A very light weight state management library for React applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint .",
+    "lint-fix": "eslint . --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parthipan-Natkunam/light-state.git"
+  },
+  "keywords": [
+    "state management",
+    "React",
+    "Redux",
+    "Flux",
+    "Global App State"
+  ],
+  "author": "Parthipan Natkunam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Parthipan-Natkunam/light-state/issues"
+  },
+  "homepage": "https://github.com/Parthipan-Natkunam/light-state#readme",
+  "devDependencies": {
+    "babel-eslint": "^9.0.0",
+    "eslint": "^5.14.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-config-wesbos": "0.0.19",
+    "eslint-plugin-html": "^5.0.3",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-react": "^7.12.4",
+    "eslint-plugin-react-hooks": "^1.3.0",
+    "mocha": "^6.2.0",
+    "prettier": "^1.16.4"
+  }
+}
