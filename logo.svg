@@ -66,18 +66,6 @@
          id="path842"
          d="m -172.85474,211.99885 13.3212,-32.97917 c -1.04946,-4.46013 -4.52135,-4.1236 -4.52135,-4.1236 7.05441,-2.55368 0.90647,-1.95278 1.21302,-7.22049 0.86752,2.452 3.81858,4.17142 3.81858,4.17142 0.28515,-9.89914 -2.87726,-16.21252 -2.87726,-16.21252 2.25888,1.78044 4.50174,7.42479 4.50174,7.42479 4.36219,-20.74697 9.85126,-33.10173 18.2505,-50.48427 7.31728,-14.697537 15.49936,-24.390591 24.97406,-35.745134 4.66254,-4.278888 6.06592,-7.487164 11.44127,-7.914781 13.036766,23.878104 1.79192,48.306115 1.79192,48.306115 l -7.91366,3.64542 7.34624,-0.098 -11.94833,29.55274 -9.52868,3.48205 6.98321,1.48749 c -4.27814,10.08967 -7.67628,16.9194 -13.53569,23.74451 l -6.63546,-2.29342 4.76871,4.38767 c 0,0 -3.93934,4.10757 -4.44568,4.53698 -7.92759,4.98242 -13.4005,7.19254 -21.07946,2.16335 14.36965,-33.16121 28.30863,-59.43293 46.99913,-88.280814 -28.36226,33.399854 -39.76151,76.030254 -62.92401,112.449644 z"
          style="fill:#28170b;fill-opacity:1;stroke:none;stroke-width:0.35607514px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,50.270833,0.37797619)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:18.66666603px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Condensed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         id="flowRoot864"
-         xml:space="preserve"><flowRegion
-           id="flowRegion866"><rect
-             y="796.80542"
-             x="-925.71429"
-             height="137.14285"
-             width="895.71429"
-             id="rect868" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;line-height:1.25;font-family:'nonospace';-inkscape-font-specification:'monospace, ';letter-spacing:20.31997299px"
-           id="flowPara870">Light State</flowPara></flowRoot>    </g>
+        </g>
   </g>
 </svg>
